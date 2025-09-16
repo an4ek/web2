@@ -17,7 +17,6 @@
 
 ## 🛠️ Технологии
 
-- **Frontend**: HTML5, CSS3, JavaScript, jQuery 3.6.0
 - **Архитектура**:
 lab2-portfolio-jquery/
 - ├── index.html # Главная страница
