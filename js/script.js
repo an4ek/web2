@@ -183,7 +183,6 @@ $(document).ready(function() {
         });
 
 
-
         // Анимация появления секций при скролле
         $('.section').each(function() {
             const sectionTop = $(this).offset().top;
