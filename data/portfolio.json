@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Командный проект",
+      "description": "Создание своей игры",
+      "image": "image/img.png",
+      "link": "https://gitlab.com/1118854639/semestrproject"
+    },
+    {
+      "title": "Семестровая по Python",
+      "description": "Тг-бот с информацией о котиках",
+      "image": "image/img_1.png",
+      "link": "https://github.com/an4ek/sem_py"
+    },
+    {
+      "title": "Weather App",
+      "description": "Приложение для прогноза погоды",
+      "image": "image/img_2.png",
+      "link": "https://github.com/an4ek/semestr"
+    }
+  ]
+}
